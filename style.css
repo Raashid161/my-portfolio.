@@ -42,7 +42,7 @@ ul li a{
 .body{
     background-color: cadetblue;
     width: 100%;
-    margin: 1% 0%;
+    margin-left: -15px;
     padding: 30px;
     text-align: center;
     line-height: 1.5;
