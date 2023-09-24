@@ -48,6 +48,9 @@ ul li a{
     line-height: 1.5;
     font-size: larger;
 }
+.image{
+    width: 70%;
+}
 main{
     line-height: 2.5;
     font-size: medium;
